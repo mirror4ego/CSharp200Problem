@@ -1,0 +1,14 @@
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\bin\Debug\Project030.exe.config
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\bin\Debug\Project030.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\bin\Debug\Project030.pdb
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\obj\Debug\Project030.csproj.CoreCompileInputs.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\obj\Debug\Project030.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\obj\Debug\Project030.pdb
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project030\Project030\obj\Debug\Project030.csprojResolveAssemblyReference.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\bin\Debug\Project030.exe.config
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\bin\Debug\Project030.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\bin\Debug\Project030.pdb
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\obj\Debug\Project030.csprojResolveAssemblyReference.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\obj\Debug\Project030.csproj.CoreCompileInputs.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\obj\Debug\Project030.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project031\Project030\obj\Debug\Project030.pdb

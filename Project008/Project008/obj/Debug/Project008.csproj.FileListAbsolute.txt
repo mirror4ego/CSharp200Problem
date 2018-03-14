@@ -1,0 +1,7 @@
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\bin\Debug\Project008.exe.config
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\bin\Debug\Project008.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\bin\Debug\Project008.pdb
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\obj\Debug\Project008.csprojResolveAssemblyReference.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\obj\Debug\Project008.csproj.CoreCompileInputs.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\obj\Debug\Project008.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project008\Project008\obj\Debug\Project008.pdb

@@ -1,0 +1,7 @@
+C:\Users\mirro\source\repos\Project043\Project043\bin\Debug\Project043.exe.config
+C:\Users\mirro\source\repos\Project043\Project043\bin\Debug\Project043.exe
+C:\Users\mirro\source\repos\Project043\Project043\bin\Debug\Project043.pdb
+C:\Users\mirro\source\repos\Project043\Project043\obj\Debug\Project043.csprojResolveAssemblyReference.cache
+C:\Users\mirro\source\repos\Project043\Project043\obj\Debug\Project043.csproj.CoreCompileInputs.cache
+C:\Users\mirro\source\repos\Project043\Project043\obj\Debug\Project043.exe
+C:\Users\mirro\source\repos\Project043\Project043\obj\Debug\Project043.pdb

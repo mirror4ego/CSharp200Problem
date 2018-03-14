@@ -1,0 +1,6 @@
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\bin\Debug\Project009.exe.config
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\bin\Debug\Project009.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\bin\Debug\Project009.pdb
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\obj\Debug\Project009.csproj.CoreCompileInputs.cache
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\obj\Debug\Project009.exe
+C:\Users\mirro\Documents\source\repos\C#200Problem\Project009\Project009\obj\Debug\Project009.pdb
