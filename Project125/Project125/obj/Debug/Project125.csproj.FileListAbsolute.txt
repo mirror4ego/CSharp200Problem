@@ -1,0 +1,7 @@
+C:\Users\mirro\source\repos\Project125\Project125\obj\Debug\Project125.csprojResolveAssemblyReference.cache
+C:\Users\mirro\source\repos\Project125\Project125\obj\Debug\Project125.csproj.CoreCompileInputs.cache
+C:\Users\mirro\source\repos\Project125\Project125\bin\Debug\Project125.exe.config
+C:\Users\mirro\source\repos\Project125\Project125\bin\Debug\Project125.exe
+C:\Users\mirro\source\repos\Project125\Project125\bin\Debug\Project125.pdb
+C:\Users\mirro\source\repos\Project125\Project125\obj\Debug\Project125.exe
+C:\Users\mirro\source\repos\Project125\Project125\obj\Debug\Project125.pdb

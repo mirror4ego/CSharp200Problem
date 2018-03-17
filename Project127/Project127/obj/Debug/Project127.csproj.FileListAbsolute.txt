@@ -1,0 +1,7 @@
+c:\users\mirro\source\repos\Project127\Project127\bin\Debug\Project127.exe.config
+c:\users\mirro\source\repos\Project127\Project127\bin\Debug\Project127.exe
+c:\users\mirro\source\repos\Project127\Project127\bin\Debug\Project127.pdb
+c:\users\mirro\source\repos\Project127\Project127\obj\Debug\Project127.csprojResolveAssemblyReference.cache
+c:\users\mirro\source\repos\Project127\Project127\obj\Debug\Project127.csproj.CoreCompileInputs.cache
+c:\users\mirro\source\repos\Project127\Project127\obj\Debug\Project127.exe
+c:\users\mirro\source\repos\Project127\Project127\obj\Debug\Project127.pdb

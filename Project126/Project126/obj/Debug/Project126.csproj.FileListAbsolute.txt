@@ -1,0 +1,7 @@
+C:\Users\mirro\source\repos\Project126\Project126\bin\Debug\Project126.exe.config
+C:\Users\mirro\source\repos\Project126\Project126\bin\Debug\Project126.exe
+C:\Users\mirro\source\repos\Project126\Project126\bin\Debug\Project126.pdb
+C:\Users\mirro\source\repos\Project126\Project126\obj\Debug\Project126.csprojResolveAssemblyReference.cache
+C:\Users\mirro\source\repos\Project126\Project126\obj\Debug\Project126.csproj.CoreCompileInputs.cache
+C:\Users\mirro\source\repos\Project126\Project126\obj\Debug\Project126.exe
+C:\Users\mirro\source\repos\Project126\Project126\obj\Debug\Project126.pdb
